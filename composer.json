@@ -1,0 +1,16 @@
+{
+    "name": "nalve/gpe",
+    "description": "Gerenciador",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nataferreiragtr",
+            "email": "n.alves2001@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
